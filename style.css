@@ -2,7 +2,13 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    .poppins-bold 
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      
+}
 .cabecalho {
     background-color: #3A6FBF;
     color: white;
