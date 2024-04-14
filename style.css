@@ -30,7 +30,7 @@ body {
 
 .escola{
     background-image: linear-gradient(#033b9c,#e9ecec);
-    color:white;
+    color:rgb(4, 72, 117);
     display: flex;
     justify-content: center;
     align-items: center;
